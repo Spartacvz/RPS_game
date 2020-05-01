@@ -2,7 +2,6 @@ public class Paper {
 
     String cpuAnswer;
 
-
     public Paper(int choice) {
         switch (choice) {
             case 1:
