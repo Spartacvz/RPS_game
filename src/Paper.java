@@ -1,7 +1,6 @@
 public class Paper {
 
-    public static void Paper() {
-
+    String cpuAnswer;
 
     public Paper(int choice) {
         switch (choice) {

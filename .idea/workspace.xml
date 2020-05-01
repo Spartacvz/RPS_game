@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+    <list default="true" id="adbbbfd3-dad1-4f0f-b702-318d3eec8b05" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Paper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Paper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Scissors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scissors.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
