@@ -1,6 +1,6 @@
 public class Paper {
 
-    public static void Rock() {
+    public static void Paper() {
 
     }
 }
