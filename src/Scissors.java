@@ -1,9 +1,9 @@
-public class Paper {
+public class Scissors {
 
-    public static void Paper() {
+    String cpuAnswer;
 
 
-    public Paper(int choice) {
+    public Scissors(int choice) {
         switch (choice) {
             case 1:
                 cpuAnswer = "rock";
@@ -20,7 +20,7 @@ public class Paper {
     }
 
     public int checkOutcome() {
-        if(cpuAnswer.equals("rock")){
+        if(cpuAnswer.equals("paper")){
             return 1;
         } else {
             return 0;
