@@ -1,4 +1,6 @@
-package PACKAGE_NAME;
-
 public class Rock {
+
+    public static void Rock() {
+
+    }
 }
