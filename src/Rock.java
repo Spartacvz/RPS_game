@@ -2,7 +2,6 @@ public class Rock {
 
     String cpuAnswer;
 
-
     public Rock(int choice) {
         switch (choice) {
             case 1:

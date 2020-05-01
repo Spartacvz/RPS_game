@@ -2,7 +2,6 @@ public class Scissors {
 
     String cpuAnswer;
 
-
     public Scissors(int choice) {
         switch (choice) {
             case 1:
